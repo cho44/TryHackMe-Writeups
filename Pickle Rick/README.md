@@ -1,5 +1,6 @@
 ## Pickle Rick Room
 # Difficulty: Easy
+# www.tryhackme.com
 
 When we first paste the ip into google we get meeted with a webpage.
 
